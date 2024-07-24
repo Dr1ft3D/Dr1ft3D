@@ -3,6 +3,5 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://faxes.zone)](https://drift.zone)
 ![](https://komarev.com/ghpvc/?username=Dr1ft3D)
 <br>
-![DiscordStatus](https://dcbadge.limes.pink/api/shield/925104384499658883)
 ![vscode](https://api.statusbadges.me/badge/vscode/282762192544333827?fallback=Nothing)
 [![spotify](https://api.statusbadges.me/badge/spotify/282762192544333827?fallback=Nothing)](https://api.statusbadges.me/openspotify/282762192544333827)
