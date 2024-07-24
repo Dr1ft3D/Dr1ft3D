@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dr1ft3D)
+![](https://komarev.com/ghpvc/?username=Dr1ft3D)
 
 ```javascript
 function Developer() {
