@@ -5,3 +5,5 @@
 <br>
 ![vscode](https://api.statusbadges.me/badge/vscode/282762192544333827?fallback=Nothing)
 [![spotify](https://api.statusbadges.me/badge/spotify/282762192544333827?fallback=Nothing)](https://api.statusbadges.me/openspotify/282762192544333827)
+
+*Hi, I'm Dr1ft3D, a Full Stack Developer based in the United Kingdom. My expertise lies in developing Node-based websites, but I also have experience working with FiveM resources, Discord bots, PHP websites, and more. Since 2019, I've been immersed in the programming world, teaching myself through various online resources.*
