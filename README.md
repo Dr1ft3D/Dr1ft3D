@@ -4,7 +4,7 @@
 
 #### Self Taught Developer 👩‍💻 | Privete Pilot
 
-Owner @ [Drift3D Community Discord]([https://versabot.net](https://discord.gg/BjGm7NP9bX)<br>
+Owner @ [Drift3D Community Discord](https://discord.gg/BjGm7NP9bX)<br>
 
 
 - 💬 I'm mostly active within the [FiveM Community](https://forum.cfx.re)
