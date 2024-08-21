@@ -1,5 +1,3 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/Dr1ft3D?label=Follow)](https://twitter.com/intent/follow?screen_name=Dr1ft3D)
-[![GitHub followers](https://img.shields.io/github/followers/Dr1ft3D?label=Follow&style=social)](https://github.com/Dr1ft3D)
 ![](https://komarev.com/ghpvc/?username=Dr1ft3D)
 
 ### Hello there 👋
