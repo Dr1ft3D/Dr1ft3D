@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=Dr1ft3D)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F312R72Y)
 
 ### Hello there 👋
 
